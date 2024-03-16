@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "อัพเดตผลการโหวตสำเร็จ",
+  "data": {
+    "Id": 3,
+    "restaurantId": 3,
+    "rating": 2.0
+  }
+}

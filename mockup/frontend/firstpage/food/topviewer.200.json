@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 3,
+  "message": "ดึงข้อมูลรายการอาหารยอดนิยมสำเร็จ",
+  "data": {
+    "title": "รายการอาหารยอดนิยม",
+    "foods": [
+      {
+        "Id": 103,
+        "foodId": 103,
+        "countryId": 10,
+        "cultureId": 2,
+        "name": "โรตีไข่",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png",
+        "viewer": 988
+      },
+      {
+        "Id": 114,
+        "foodId": 114,
+        "countryId": 10,
+        "cultureId": 3,
+        "name": "ออส่วนหอยนางรม",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png",
+        "viewer": 985
+      },
+      {
+        "Id": 119,
+        "foodId": 119,
+        "countryId": 10,
+        "cultureId": 3,
+        "name": "ไก่ตุ๋นยาจีน",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png",
+        "viewer": 985
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "",
+  "data": {
+    "country": "ไทย",
+    "foods": [
+      {
+        "foodCulture": [
+          {
+            "id": 1,
+            "countryId": 1,
+            "cultureId": 1,
+            "name": "อาหารใต้",
+            "image": "https://taipla.com/api/images/image.png",
+            "imageSM": "https://taipla.com/api/images/image@sm.png",
+            "imageMD": "https://taipla.com/api/images/image@md.png",
+            "imageLG": "https://taipla.com/api/images/image@lg.png"
+          }
+        ]
+      },
+      {
+        "foodCulture": [
+          {
+            "id": 2,
+            "countryId": 1,
+            "cultureId": 2,
+            "name": "อาหารอิสลาม",
+            "image": "https://taipla.com/api/images/image.png",
+            "imageSM": "https://taipla.com/api/images/image@sm.png",
+            "imageMD": "https://taipla.com/api/images/image@md.png",
+            "imageLG": "https://taipla.com/api/images/image@lg.png"
+          }
+        ]
+      },
+      {
+        "foodCulture": [
+          {
+            "id": 3,
+            "countryId": 1,
+            "cultureId": 3,
+            "name": "อาหารไทยจีน",
+            "image": "https://taipla.com/api/images/image.png",
+            "imageSM": "https://taipla.com/api/images/image@sm.png",
+            "imageMD": "https://taipla.com/api/images/image@md.png",
+            "imageLG": "https://taipla.com/api/images/image@lg.png"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 10,
+  "message": "ดึงข้อมูลอาหารส่วนกลางที่คล้ายคลึงกันสำเร็จ",
+  "data": {
+    "title": "รายการอาหารอื่นที่คล้ายกัน",
+    "foods": [
+      {
+        "Id": 2,
+        "foodId": 2,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "กุ้งต้มกะปิใบเหลียง",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 160
+      },
+      {
+        "Id": 3,
+        "foodId": 3,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "กุ้งผัดสะตอพริกแกงใต้",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 497
+      },
+      {
+        "Id": 4,
+        "foodId": 4,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "กุ้งหวาน",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 903
+      },
+      {
+        "Id": 5,
+        "foodId": 5,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงคั่วกระดูกอ่อนลูกกล้วย",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 272
+      },
+      {
+        "Id": 6,
+        "foodId": 6,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงคั่วไก่ยอดมะพร้าว",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 245
+      },
+      {
+        "Id": 7,
+        "foodId": 7,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงคั่วพริกซี่โครงกระดูกอ่อน",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 829
+      },
+      {
+        "Id": 8,
+        "foodId": 8,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงคั่วหมูกับลูกเหรียง",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 115
+      },
+      {
+        "Id": 9,
+        "foodId": 9,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงคั่วหอยแครงใส่ใบชะพลู",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 114
+      },
+      {
+        "Id": 10,
+        "foodId": 10,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงไตปลา",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 432
+      },
+      {
+        "Id": 11,
+        "foodId": 11,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงปูกับฟักทอง",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 509
+      }
+    ]
+  }
+}

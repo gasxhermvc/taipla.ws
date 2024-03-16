@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 1,
+  "message": "ดึงข้อมูลตำนานอาหารส่วนกลางสำเร็จ",
+  "data": {
+    "title": "ตำนานอาหาร",
+    "legend": [
+      {
+        "legendId": 13,
+        "name": "TT",
+        "description": "FFFSS",
+        "image": "https://taipla.com/api/images/LEGEND/13/Hipster-Developer-Dice.jpg",
+        "imageSM": "https://taipla.com/api/images/LEGEND/13/Hipster-Developer-Dice@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/LEGEND/13/Hipster-Developer-Dice@md.jpg",
+        "imageLG": "https://taipla.com/api/images/LEGEND/13/Hipster-Developer-Dice@lg.jpg"
+      }
+    ]
+  }
+}

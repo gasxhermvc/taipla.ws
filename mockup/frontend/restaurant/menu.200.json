@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 1,
+  "message": "ดึงข้อมูลรายการเมนูร้านอาหารสำเร็จ",
+  "data": {
+    "title": "รายการอาหาร",
+    "menu": [
+      {
+        "Id": 9,
+        "menuId": 9,
+        "restaurantId": 3,
+        "name": "กระเพราะหมูรสเด็ดเผ็ดกลางคืน",
+        "price": 50.0,
+        "image": "https://taipla.com/api/images/RESTAURANT_MENU/9/06993eef2aa940e49c57c1c564c53376.jpg",
+        "imageSM": "https://taipla.com/api/images/RESTAURANT_MENU/9/06993eef2aa940e49c57c1c564c53376@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/RESTAURANT_MENU/9/06993eef2aa940e49c57c1c564c53376@md.jpg",
+        "imageLG": "https://taipla.com/api/images/RESTAURANT_MENU/9/06993eef2aa940e49c57c1c564c53376@lg.jpg",
+        "unit": "บาท",
+        "viewer": 8
+      }
+    ]
+  }
+}

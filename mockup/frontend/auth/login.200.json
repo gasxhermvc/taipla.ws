@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "เข้าสู่ระบบสำเร็จ",
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+    "expired": "2018-01-10T08:14:00",
+    "clientId": "94194927-64d8-4662-93c2-7d35c4c0120b"
+  }
+}

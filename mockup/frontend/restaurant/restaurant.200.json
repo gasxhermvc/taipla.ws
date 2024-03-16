@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "",
+  "data": {
+    "title": "10 ร้านอาหารยอดนิยม",
+    "restaurants": [
+      {
+        "id": 1,
+        "countryId": 1,
+        "cultureId": 1,
+        "viewer": 2000,
+        "name": "รายการอาหารไทยจีนยอดนิยม",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png"
+      }
+    ]
+  }
+}

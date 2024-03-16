@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 3,
+  "message": "ดึงข้อมูลรายการอาหารสำเร็จ",
+  "data": [
+    {
+      "total": 3,
+      "culture": "ไทยใต้",
+      "foodCulture": [
+        {
+          "Id": 1,
+          "foodId": 1,
+          "countryId": 10,
+          "cultureId": 1,
+          "name": "กะปิคั่ว",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 177
+        },
+        {
+          "Id": 2,
+          "foodId": 2,
+          "countryId": 10,
+          "cultureId": 1,
+          "name": "กุ้งต้มกะปิใบเหลียง",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 159
+        },
+        {
+          "Id": 3,
+          "foodId": 3,
+          "countryId": 10,
+          "cultureId": 1,
+          "name": "กุ้งผัดสะตอพริกแกงใต้",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 497
+        }
+      ]
+    },
+    {
+      "total": 3,
+      "culture": "ไทยมุสลิม",
+      "foodCulture": [
+        {
+          "Id": 55,
+          "foodId": 55,
+          "countryId": 10,
+          "cultureId": 2,
+          "name": "ก๋วยเตี๋ยวแกง",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 348
+        },
+        {
+          "Id": 56,
+          "foodId": 56,
+          "countryId": 10,
+          "cultureId": 2,
+          "name": "ก๋วยเตี๋ยวเนื้อ",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 531
+        },
+        {
+          "Id": 57,
+          "foodId": 57,
+          "countryId": 10,
+          "cultureId": 2,
+          "name": "กะบับไก่",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 759
+        }
+      ]
+    },
+    {
+      "total": 3,
+      "culture": "ไทยจีน",
+      "foodCulture": [
+        {
+          "Id": 113,
+          "foodId": 113,
+          "countryId": 10,
+          "cultureId": 3,
+          "name": "กระดูกหมูตุ๋นยาจีน",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 638
+        },
+        {
+          "Id": 114,
+          "foodId": 114,
+          "countryId": 10,
+          "cultureId": 3,
+          "name": "ออส่วนหอยนางรม",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 985
+        },
+        {
+          "Id": 115,
+          "foodId": 115,
+          "countryId": 10,
+          "cultureId": 3,
+          "name": "กระเพาะปลาน้ำแดง",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 175
+        }
+      ]
+    }
+  ]
+}

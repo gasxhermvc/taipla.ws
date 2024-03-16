@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "อัพเดตยอดเข้าชมสำเร็จ",
+  "data": {
+    "resId": 3,
+    "viewer": 9
+  }
+}

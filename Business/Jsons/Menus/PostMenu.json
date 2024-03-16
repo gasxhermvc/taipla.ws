@@ -1,0 +1,26 @@
+[
+  {
+    "NAME": "food_center",
+    "LABEL": "อาหารส่วนกลาง",
+    "ICON": "database",
+    "PATH": "backoffice/food-center",
+    "IS_ACTIVE": true,
+    "IS_MENU": true
+  },
+  {
+    "NAME": "account",
+    "LABEL": "ข้อมูลส่วนตัว",
+    "ICON": "profile",
+    "PATH": "backoffice/account",
+    "IS_ACTIVE": false,
+    "IS_MENU": false
+  },
+  {
+    "NAME": "logout",
+    "LABEL": "ออกจากระบบ",
+    "ICON": "logout",
+    "PATH": "environment.auth.redirects.logout",
+    "IS_ACTIVE": false,
+    "IS_MENU": true
+  }
+]

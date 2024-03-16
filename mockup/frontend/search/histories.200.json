@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "ดึงข้อมูลสำเร็จ",
+  "data": {
+    "title": "ประวัติการค้นหา",
+    "histories": [
+      {
+        "searchId": 1,
+        "lebel": "อาหารใต้",
+        "condition": {
+          "direction": 1,
+          "country": -1,
+          "culture": -1,
+          "tags": [ "ข้าว", "ผัด", "ทอด" ]
+        },
+        "createdDate": "2018-01-10T08:14:00"
+      },
+      {
+        "searchId": 2,
+        "lebel": "อาหารใต้",
+        "condition": {
+          "direction": 2,
+          "country": -1,
+          "culture": -1,
+          "tags": [ "แกง", "ต้ม" ]
+        },
+        "createdDate": "2018-01-10T08:14:00"
+      },
+      {
+        "searchId": 3,
+        "lebel": "อาหารอร่อย",
+        "condition": null,
+        "createdDate": "2018-01-10T08:14:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 3,
+  "message": "ดึงข้อมูลรายการอาหารสำเร็จ",
+  "data": {
+    "country": "ไทย",
+    "culture": "ไทยจีน",
+    "foods": [
+      {
+        "Id": 113,
+        "foodId": 113,
+        "countryId": 10,
+        "cultureId": 3,
+        "name": "กระดูกหมูตุ๋นยาจีน",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png",
+        "viewer": 638
+      },
+      {
+        "Id": 114,
+        "foodId": 114,
+        "countryId": 10,
+        "cultureId": 3,
+        "name": "ออส่วนหอยนางรม",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png",
+        "viewer": 985
+      },
+      {
+        "Id": 115,
+        "foodId": 115,
+        "countryId": 10,
+        "cultureId": 3,
+        "name": "กระเพาะปลาน้ำแดง",
+        "image": "https://taipla.com/api/images/image.png",
+        "imageSM": "https://taipla.com/api/images/image@sm.png",
+        "imageMD": "https://taipla.com/api/images/image@md.png",
+        "imageLG": "https://taipla.com/api/images/image@lg.png",
+        "viewer": 175
+      }
+    ]
+  }
+}

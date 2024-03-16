@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 4,
+  "message": "ดึงข้อมูลการโต้ตอบสำเร็จ",
+  "data": {
+    "comments": [
+      {
+        "commentId": 1,
+        "userId": 1,
+        "fullName": "Antony Alice",
+        "comment": "test",
+        "createDate": "2021-05-23T09:34:57",
+        "imageAvatar": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar.png",
+        "imageAvatarSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@sm.png",
+        "imageAvatarMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@md.png",
+        "imageAvatarLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@lg.png",
+        "image": "https://taipla.com/api/images/COMMENT/1/06993eef2aa940e49c57c1c564c53376.jpg",
+        "imageSM": "https://taipla.com/api/images/COMMENT/1/06993eef2aa940e49c57c1c564c53376@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/COMMENT/1/06993eef2aa940e49c57c1c564c53376@md.jpg",
+        "imageLG": "https://taipla.com/api/images/COMMENT/1/06993eef2aa940e49c57c1c564c53376@lg.jpg"
+      },
+      {
+        "commentId": 2,
+        "userId": 1,
+        "fullName": "Antony Alice",
+        "comment": "test",
+        "createDate": "2021-05-23T09:35:06",
+        "imageAvatar": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar.png",
+        "imageAvatarSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@sm.png",
+        "imageAvatarMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@md.png",
+        "imageAvatarLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@lg.png",
+        "image": "https://taipla.com/api/images/COMMENT/2/06993eef2aa940e49c57c1c564c53376.jpg",
+        "imageSM": "https://taipla.com/api/images/COMMENT/2/06993eef2aa940e49c57c1c564c53376@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/COMMENT/2/06993eef2aa940e49c57c1c564c53376@md.jpg",
+        "imageLG": "https://taipla.com/api/images/COMMENT/2/06993eef2aa940e49c57c1c564c53376@lg.jpg"
+      },
+      {
+        "commentId": 3,
+        "userId": 1,
+        "fullName": "Antony Alice",
+        "comment": "test",
+        "createDate": "2021-05-23T09:35:08",
+        "imageAvatar": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar.png",
+        "imageAvatarSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@sm.png",
+        "imageAvatarMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@md.png",
+        "imageAvatarLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@lg.png",
+        "image": "https://taipla.com/api/images/COMMENT/3/06993eef2aa940e49c57c1c564c53376.jpg",
+        "imageSM": "https://taipla.com/api/images/COMMENT/3/06993eef2aa940e49c57c1c564c53376@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/COMMENT/3/06993eef2aa940e49c57c1c564c53376@md.jpg",
+        "imageLG": "https://taipla.com/api/images/COMMENT/3/06993eef2aa940e49c57c1c564c53376@lg.jpg"
+      },
+      {
+        "commentId": 4,
+        "userId": 1,
+        "fullName": "Antony Alice",
+        "comment": "test",
+        "createDate": "2021-05-23T09:35:17",
+        "imageAvatar": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar.png",
+        "imageAvatarSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@sm.png",
+        "imageAvatarMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@md.png",
+        "imageAvatarLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@lg.png",
+        "image": "https://taipla.com/api/images/COMMENT/4/06993eef2aa940e49c57c1c564c53376.jpg",
+        "imageSM": "https://taipla.com/api/images/COMMENT/4/06993eef2aa940e49c57c1c564c53376@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/COMMENT/4/06993eef2aa940e49c57c1c564c53376@md.jpg",
+        "imageLG": "https://taipla.com/api/images/COMMENT/4/06993eef2aa940e49c57c1c564c53376@lg.jpg"
+      }
+    ]
+  }
+}

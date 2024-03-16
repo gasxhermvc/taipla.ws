@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 2,
+  "message": "ดึงข้อมูลรายการร้านอาหารที่อยู๋ใกล้คุณสำเร็จ",
+  "data": {
+    "title": "ร้านอาหารใกล้คุณ",
+    "restaurants": [
+      {
+        "Id": 3,
+        "resId": 3,
+        "countryId": 10,
+        "name": "ย่างเนย พระประแดง",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 12,
+        "coordinates": [
+          8.412215,
+          8.412215
+        ],
+        "distances": 2
+      },
+      {
+        "Id": 5,
+        "resId": 5,
+        "countryId": 10,
+        "name": "ขนมจีนเส้นสดแม่แอ๊ด",
+        "image": "https://taipla.com/api/images/FOOD_CENTER/5/201810180a7ccffb7fedf8640c8e5d01752754f0151011.jpg",
+        "imageSM": "https://taipla.com/api/images/FOOD_CENTER/5/201810180a7ccffb7fedf8640c8e5d01752754f0151011@sm.jpg",
+        "imageMD": "https://taipla.com/api/images/FOOD_CENTER/5/201810180a7ccffb7fedf8640c8e5d01752754f0151011@md.jpg",
+        "imageLG": "https://taipla.com/api/images/FOOD_CENTER/5/201810180a7ccffb7fedf8640c8e5d01752754f0151011@lg.jpg",
+        "viewer": 3,
+        "coordinates": [
+          8.413243,
+          8.413243
+        ],
+        "distances": 6
+      }
+    ]
+  }
+}

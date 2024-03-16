@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 2,
+  "message": "ดึงข้อมูลการโต้ตอบสำเร็จ",
+  "data": {
+    "comments": [
+      {
+        "commentId": 7,
+        "userId": 1,
+        "fullName": "Antony Alice",
+        "comment": "test",
+        "createDate": "2021-05-30T09:03:04",
+        "imageAvatar": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar.png",
+        "imageAvatarSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@sm.png",
+        "imageAvatarMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@md.png",
+        "imageAvatarLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@lg.png",
+        "image": null,
+        "imageSM": null,
+        "imageMD": null,
+        "imageLG": null
+      },
+      {
+        "commentId": 8,
+        "userId": 1,
+        "fullName": "Antony Alice",
+        "comment": "test",
+        "createDate": "2021-05-30T09:04:00",
+        "imageAvatar": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar.png",
+        "imageAvatarSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@sm.png",
+        "imageAvatarMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@md.png",
+        "imageAvatarLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-avatar@lg.png",
+        "image": null,
+        "imageSM": null,
+        "imageMD": null,
+        "imageLG": null
+      }
+    ]
+  }
+}

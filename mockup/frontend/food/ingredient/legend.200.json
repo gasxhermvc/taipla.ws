@@ -1,0 +1,30 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "ดึงข้อมูลสำเร็จ",
+    "data": {
+        "title": "ตำนานวัตถุดิบ",
+        "legend": [{
+            "legendId":1,
+            "foodId": 1,
+            "name": "ตำนานพริกหยวก",
+            "decription": "เกิดขึ้นในสมัย...",
+            "image": [
+                "https://taipla.com/api/images/image.png",
+                "https://taipla.com/api/images/image.png"
+            ],
+            "imageSM": [
+                "https://taipla.com/api/images/image@sm.png",
+                "https://taipla.com/api/images/image@sm.png"
+            ],
+            "imageMD": [
+                "https://taipla.com/api/images/image@md.png",
+                "https://taipla.com/api/images/image@md.png"
+            ],
+            "imageLG": [
+                "https://taipla.com/api/images/image@lg.png",
+                "https://taipla.com/api/images/image@lg.png"
+            ]
+        }]
+    }
+}

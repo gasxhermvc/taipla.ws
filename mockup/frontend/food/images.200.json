@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 3,
+  "message": "ดึงข้อมูลรูปภาพอาหารส่วนกลางสำเร็จ",
+  "data": {
+    "image": [
+      "https://taipla.com/api/images/FOOD_CENTER/1/06993eef2aa940e49c57c1c564c53376.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/201810180a7ccffb7fedf8640c8e5d01752754f0151011.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/80951653_120679036147742_1766942905554960384_n.jpg"
+    ],
+    "imageSM": [
+      "https://taipla.com/api/images/FOOD_CENTER/1/06993eef2aa940e49c57c1c564c53376@sm.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/201810180a7ccffb7fedf8640c8e5d01752754f0151011@sm.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/80951653_120679036147742_1766942905554960384_n@sm.jpg"
+    ],
+    "imageMD": [
+      "https://taipla.com/api/images/FOOD_CENTER/1/06993eef2aa940e49c57c1c564c53376@md.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/201810180a7ccffb7fedf8640c8e5d01752754f0151011@md.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/80951653_120679036147742_1766942905554960384_n@md.jpg"
+    ],
+    "imageLG": [
+      "https://taipla.com/api/images/FOOD_CENTER/1/06993eef2aa940e49c57c1c564c53376@lg.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/201810180a7ccffb7fedf8640c8e5d01752754f0151011@lg.jpg",
+      "https://taipla.com/api/images/FOOD_CENTER/1/80951653_120679036147742_1766942905554960384_n@lg.jpg"
+    ]
+  }
+}

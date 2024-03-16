@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "ดึงข้อมูลรายละเอียดสำเร็จ",
+  "data": {
+    "Id": 1,
+    "foodId": 1,
+    "countryId": 10,
+    "cultureId": 1,
+    "name": "กะปิคั่ว",
+    "image": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png"
+    ],
+    "imageSM": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png"
+    ],
+    "imageMD": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png"
+    ],
+    "imageLG": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png"
+    ],
+    "viewer": 188
+  }
+}

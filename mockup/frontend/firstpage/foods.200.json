@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 3,
+  "message": "ดึงข้อมูลรายการอาหารสำเร็จ",
+  "data": [
+    {
+      "total": 1,
+      "country": "ไทย",
+      "foods": [
+        {
+          "Id": 1,
+          "foodId": 1,
+          "countryId": 10,
+          "cultureId": 1,
+          "name": "กะปิคั่ว",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 177
+        }
+      ]
+    },
+    {
+      "total": 1,
+      "country": "สิงคโปร์",
+      "foods": [
+        {
+          "Id": 1,
+          "foodId": 1,
+          "countryId": 10,
+          "cultureId": 1,
+          "name": "กะปิคั่ว",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 177
+        }
+      ]
+    },
+    {
+      "total": 1,
+      "country": "มาเลเซีย",
+      "foods": [
+        {
+          "Id": 1,
+          "foodId": 1,
+          "countryId": 10,
+          "cultureId": 1,
+          "name": "กะปิคั่ว",
+          "image": "https://taipla.com/api/images/image.png",
+          "imageSM": "https://taipla.com/api/images/image@sm.png",
+          "imageMD": "https://taipla.com/api/images/image@md.png",
+          "imageLG": "https://taipla.com/api/images/image@lg.png",
+          "viewer": 177
+        }
+      ]
+    }
+  ]
+}

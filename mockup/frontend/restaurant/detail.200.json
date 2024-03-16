@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "ดึงข้อมูลรายละเอียดสำเร็จ",
+  "data": {
+    "Id": 3,
+    "restaurantId": 3,
+    "countryId": 10,
+    "name": "ย่างเนย พระประแดง",
+    "image": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png"
+    ],
+    "imageSM": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png"
+    ],
+    "imageMD": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png"
+    ],
+    "imageLG": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png"
+    ],
+    "viewer": 12,
+    "rating": 5.0,
+    "coordinates": [
+      8.412215,
+      100.520645
+    ],
+    "address": "ลัดหลวง อำเภอพระประแดง สมุทรปราการ 10130",
+    "phone": "0836403798",
+    "website": "",
+    "facebook": "https://www.facebook.com/YNprapadang/",
+    "line": "@YN",
+    "openTime": "12:00-23:30",
+    "isCarPark": true,
+    "owner": "kamonthip thip"
+  }
+}

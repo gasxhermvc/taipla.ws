@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "ดึงข้อมูลสำเร็จ",
+  "data": {
+    "title": "ผลลัพธ์การค้นหา",
+    "foodResult": [
+      {
+        "Id": 3,
+        "foodId": 3,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "กุ้งผัดสะตอพริกแกงใต้",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 160
+      },
+      {
+        "Id": 7,
+        "foodId": 7,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "แกงคั่วพริกซี่โครงกระดูกอ่อน",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 293
+      },
+      {
+        "Id": 26,
+        "foodId": 26,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกกะปิกุ้งสด",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 332
+      },
+      {
+        "Id": 27,
+        "foodId": 27,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกกะปิผักสดผักลวก",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 996
+      },
+      {
+        "Id": 28,
+        "foodId": 28,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกกุ้งเสียบ",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 884
+      },
+      {
+        "Id": 29,
+        "foodId": 29,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกระกำ",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 659
+      },
+      {
+        "Id": 31,
+        "foodId": 31,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกมะขาม",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 590
+      },
+      {
+        "Id": 39,
+        "foodId": 39,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "ผัดพริกแกงคั่วไก่ใบยี่หร่า",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 148
+      },
+      {
+        "Id": 45,
+        "foodId": 45,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "สะตอผัดกะปิกุ้งสด",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 584
+      },
+      {
+        "Id": 49,
+        "foodId": 49,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกมะม่วง",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 174
+      },
+      {
+        "Id": 52,
+        "foodId": 52,
+        "countryId": 10,
+        "cultureId": 1,
+        "name": "น้ำพริกกะปิ",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 789
+      },
+      {
+        "Id": 90,
+        "foodId": 90,
+        "countryId": 10,
+        "cultureId": 2,
+        "name": "น้ำพริกบูดู",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 799
+      },
+      {
+        "Id": 91,
+        "foodId": 91,
+        "countryId": 10,
+        "cultureId": 2,
+        "name": "เนื้อทอดกระเทียมพริกไทย",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 378
+      },
+      {
+        "Id": 100,
+        "foodId": 100,
+        "countryId": 10,
+        "cultureId": 2,
+        "name": "ปลาราดพริก",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 221
+      },
+      {
+        "Id": 143,
+        "foodId": 143,
+        "countryId": 10,
+        "cultureId": 3,
+        "name": "ปลาเก๋าราดพริก",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 390
+      }
+    ],
+    "restaurantResult": [
+      {
+        "Id": 3,
+        "resId": 3,
+        "countryId": 10,
+        "name": "ย่างเนย พระประแดง",
+        "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+        "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+        "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+        "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+        "viewer": 12
+      }
+    ]
+  }
+}

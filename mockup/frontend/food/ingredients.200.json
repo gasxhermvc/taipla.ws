@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "ดึงข้อมูลสำเร็จ",
+    "data": {
+        "title": "รายการวัตถุดิบ",
+        "ingredients": [
+            {
+                "ingredientId": 1,
+                "foodId":1,
+                "lebel": "พริก",
+                "weight": 1.5,
+                "unit": "กรัม",
+                "legendStatus": "true"
+            }
+        ]
+    }
+}

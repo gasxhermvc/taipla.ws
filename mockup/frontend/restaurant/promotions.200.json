@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 4,
+  "message": "ดึงข้อมูลรายการโปรโมชันร้านอาหารสำเร็จ",
+  "data": [
+    {
+      "Id": 2,
+      "restaurantId": 5,
+      "name": "AAAA",
+      "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+      "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+      "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+      "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+      "viewer": 8
+    },
+    {
+      "Id": 6,
+      "restaurantId": 5,
+      "name": "AAAA",
+      "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+      "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+      "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+      "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+      "viewer": 0
+    },
+    {
+      "Id": 7,
+      "restaurantId": 5,
+      "name": "AAAA",
+      "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+      "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+      "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+      "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+      "viewer": 0
+    },
+    {
+      "Id": 8,
+      "restaurantId": 5,
+      "name": "AAAA",
+      "image": "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png",
+      "imageSM": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png",
+      "imageMD": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png",
+      "imageLG": "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png",
+      "viewer": 0
+    }
+  ]
+}

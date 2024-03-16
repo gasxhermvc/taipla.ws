@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "คุณเคยโหวตแล้ว",
+  "data": {
+    "Id": 5,
+    "restaurantId": 5,
+    "voteExist": true,
+    "voteScore": 2.0
+  }
+}

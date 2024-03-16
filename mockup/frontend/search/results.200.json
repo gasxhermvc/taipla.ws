@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "ดึงข้อมูลสำเร็จ",
+  "data": {
+    "title": "ผลลัพธ์การค้นหา",
+    "foodResult": [{
+      "id": 1,
+      "countryId": 1,
+      "cultureId": 1,
+      "name": "ข้าวต้มชาววัง",
+      "country": "ไทย",
+      "culture": "อาหารไทยจีน",
+      "rating": 3.4,
+      "viewer": 2000,
+      "category": "อาหารส่วนกลาง",
+      "image": "https://taipla.com/api/images/image.png",
+      "imageSM": "https://taipla.com/api/images/image@sm.png",
+      "imageMD": "https://taipla.com/api/images/image@md.png",
+      "imageLG": "https://taipla.com/api/images/image@lg.png",
+    }],
+    "restaurantResult": [{
+      "id": 1,
+      "countryId": 1,
+      "cultureId": 1,
+      "name": "ร้านข้าวต้มชาววัง",
+      "image": "https://taipla.com/api/images/image.png",
+      "imageSM": "https://taipla.com/api/images/image@sm.png",
+      "imageMD": "https://taipla.com/api/images/image@md.png",
+      "imageLG": "https://taipla.com/api/images/image@lg.png",
+      "viewer": 2000
+    }]
+  }
+}

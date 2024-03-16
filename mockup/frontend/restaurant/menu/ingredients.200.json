@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "ดึงข้อมูลสำเร็จ",
+  "data": {
+    "title": "วัตถุดิบ",
+    "ingredients": [
+      {
+        "restaurantId": 1,
+        "menuId": 1,
+        "ingredientId": 1,
+        "lebel": "ผักกาด",
+        "weight": "3",
+        "unit": "หัว",
+        "legendStatus": true
+      }
+    ]
+  }
+}

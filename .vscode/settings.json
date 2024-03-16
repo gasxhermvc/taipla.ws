@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 100,
+            "server": "xxx",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Taipla",
+            "group": "CWS",
+            "database": "xxx",
+            "username": "xxx",
+            "password": "xxx123",
+            "connectionTimeout": 300
+        }
+    ],
+    "editor.cursorWidth": 0
+}

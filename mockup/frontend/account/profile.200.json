@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "ดึงข้อมูลสำเร็จ",
+  "data": {
+    "userId": 1,
+    "userName": "Alice.An6636",
+    "fullName": "AliceAntony",
+    "firstName": "Alice",
+    "lastName": "Antony",
+    "phoneNumber": "0899999999",
+    "Email": "Alice_An@gmail.com",
+    "imageAvatar": "https://taipla.com/api/images/image.png",
+    "imageAvatarSM": "https://taipla.com/api/images/image@sm.png",
+    "imageAvatarMD": "https://taipla.com/api/images/image@md.png",
+    "imageAvatarLG": "https://taipla.com/api/images/image@lg.png",
+    "clientId": "94194927-64d8-4662-93c2-7d35c4c0120b"
+  }
+}

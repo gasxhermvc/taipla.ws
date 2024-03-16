@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "ดึงข้อมูลรายละเอียดสำเร็จ",
+  "data": {
+    "Id": 9,
+    "memuId": 9,
+    "restaurantId": 3,
+    "countryId": 10,
+    "cultureId": 1,
+    "name": "กระเพราะหมูรสเด็ดเผ็ดกลางคืน",
+    "cookingFood": "",
+    "image": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image.png"
+    ],
+    "imageSM": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@sm.png"
+    ],
+    "imageMD": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@md.png"
+    ],
+    "imageLG": [
+      "https://taipla.com/api/images/DEFAULTS/default-image/default-image@lg.png"
+    ],
+    "viewer": 8,
+    "legendStatus": true,
+    "price": 50.0,
+    "unit": "บาท",
+    "rating": 0.0
+  }
+}

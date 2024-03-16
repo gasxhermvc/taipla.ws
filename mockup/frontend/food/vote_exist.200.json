@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "total": 0,
+  "message": "คุณเคยโหวตแล้ว",
+  "data": {
+    "Id": 1,
+    "foodId": 1,
+    "voteExist": true,
+    "voteScore": 5.0
+  }
+}
